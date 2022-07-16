@@ -50,8 +50,8 @@ Note:
 - `npm install nodemon -g`
 - `nodemon`
 ## Reference
-- [Neo4j Case Study](Recipe-recommender/Research paper/Neo4j-case-study-Gousto-EN-A4.pdf)
-- [Research Paper](Recipe-recommender/Research paper/Recomend System.pdf)
+- [Neo4j Case Study](./Research-paper/Neo4j-case-study-Gousto-EN-A4.pdf)
+- [Research Paper](./Research-paper/Recomend System.pdf)
 # License
 
 [MIT](./LICENSE)

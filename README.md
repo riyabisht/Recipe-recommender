@@ -1,5 +1,7 @@
 # Recipe Recommender System
 
+### click image for video
+
 [![IMAGE ALT TEXT](./img/dish.png)](https://youtu.be/nO5bOLq9KHA "click here")
 
 ## Setup 

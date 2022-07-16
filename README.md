@@ -1,6 +1,6 @@
 # Recipe Recommender System
 
-|<img src="./img/dish.jpg" width="600px">|
+|<img src="./img/dish.png" width="600px">|
 |-------------------------|
 | Interface for app       |
 

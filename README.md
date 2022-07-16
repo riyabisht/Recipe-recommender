@@ -1,12 +1,8 @@
 # Recipe Recommender System
 
-|<img src="./img/img.png" width="600px">|
+|<img src="./img/dish.jpg" width="600px">|
 |-------------------------|
 | Interface for app       |
-
-|<img src="./img/img2.png" width="600px">|
-|-------------------------|
-| Result of the query     |
 
 ## Setup 
 

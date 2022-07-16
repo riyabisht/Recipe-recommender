@@ -2,7 +2,7 @@
 
 ### click image for video
 
-[![IMAGE ALT TEXT](./img/dish.png)](https://youtu.be/nO5bOLq9KHA "click here")
+[![IMAGE ALT TEXT](./img/bread.jpg)](https://youtu.be/nO5bOLq9KHA "click here")
 
 ## Setup 
 

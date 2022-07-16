@@ -51,7 +51,7 @@ Note:
 - `nodemon`
 ## Reference
 - [Neo4j Case Study](./Research-paper/Neo4j-case-study-Gousto-EN-A4.pdf)
-- [Research Paper](./Research-paper/Recomend System.pdf)
+- [Research Paper](./Research-paper/Recomend-System.pdf)
 # License
 
 [MIT](./LICENSE)

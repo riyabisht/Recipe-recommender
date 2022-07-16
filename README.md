@@ -22,8 +22,10 @@ a new dish from the available ingredients.
 
 [![IMAGE ALT TEXT](./img/bread.jpg)](https://youtu.be/nO5bOLq9KHA "click here")
 
-## Tech Stack 
-![neo4j](https://cdn.svgporn.com/logos/neo4j.svg)
+## Tech Stack
+- [Neo4j](https://neo4j.com/)
+- [cypher](https://neo4j.com/developer/cypher/)
+- [Nodejs](https://nodejs.org/en/docs/guides/)
 
 ## Setup 
 
